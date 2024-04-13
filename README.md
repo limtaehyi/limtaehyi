@@ -26,4 +26,4 @@ etc
 ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9359F7&random=false&width=435&lines=My+favorite+%22CHESS%22+opening+with+white;Blackmar-Diemer+gambit;London+system;Queen's+gambit;Queen's+Indian+attack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9359F7&random=false&width=435&lines=My+favorite+%22CHESS%22+opening;Blackmar-Diemer+gambit;London+system;Queen's+gambit;Queen's+Indian+attack)](https://git.io/typing-svg)
