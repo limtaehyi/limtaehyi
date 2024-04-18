@@ -14,6 +14,7 @@ framework
 <br>
 ![Static Badge](https://img.shields.io/badge/flask-blue?style=for-the-badge&logo=flask&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Static Badge](https://img.shields.io/badge/codeigniter3-092E20?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 certification
 
