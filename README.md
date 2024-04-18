@@ -26,6 +26,7 @@ etc
 ![Static Badge](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ZAP-00549E?style=for-the-badge&logo=ZAP&logoColor=white)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9359F7&random=false&width=435&lines=My+favorite+%22CHESS%22+opening;Blackmar-Diemer+gambit;London+system;Queen's+gambit;Queen's+Indian+attack)](https://git.io/typing-svg)
