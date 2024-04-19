@@ -17,6 +17,9 @@ framework
 ![Static Badge](https://img.shields.io/badge/codeigniter3-skyblue?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 certification
+<br>
+![Static Badge](https://img.shields.io/badge/정보처리기사_필기-0769AD?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/정보보안기사_필기-0769AD?style=for-the-badge&logoColor=white)
 
 etc
 <br>
