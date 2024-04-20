@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&fontColor=black&height=300&section=header&stroke=purple&text=aaaaaaaaaey&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&fontColor=black&height=300&section=header&stroke=e0d3e9ff&text=aaaaaaaaaey&fontSize=90)
 
 language
 <br>
