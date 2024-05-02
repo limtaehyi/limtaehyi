@@ -31,4 +31,4 @@
 
 <br><br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9359F7&random=false&width=435&lines=My+favorite+%22CHESS%22+opening;1._Blackmar-Diemer+gambit;2._London+system;3._Queen's+gambit;4._Queen's+Indian+attack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9359F7&random=false&width=435&lines=My+favorite+%22CHESS%22+opening;1.Blackmar-Diemer+gambit;2.London+system;3.Queen's+gambit;4.Queen's+Indian+attack)](https://git.io/typing-svg)
