@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&fontColor=black&height=300&section=header&stroke=9c5aec&text=aaaaaaaaaey&fontSize=90)
 
 ## language
-<br>
-
 ![Static Badge](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -12,21 +10,15 @@
 ![Static Badge](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ## framework
-<br>
-
 ![Static Badge](https://img.shields.io/badge/flask-blue?style=for-the-badge&logo=flask&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/codeigniter3-skyblue?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ## certification
-<br>
-
 ![Static Badge](https://img.shields.io/badge/정보처리기사_필기-0769AD?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/정보보안기사_필기-0769AD?style=for-the-badge&logoColor=white)
 
 ## etc
-<br>
-
 ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
