@@ -12,7 +12,7 @@
 ## 🔥framework
 ![Static Badge](https://img.shields.io/badge/flask-blue?style=for-the-badge&logo=flask&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Static Badge](https://img.shields.io/badge/codeigniter3-skyblue?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Static Badge](https://img.shields.io/badge/codeigniter3-e34f26?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ## 🎓certification
 ![Static Badge](https://img.shields.io/badge/네트워크관리사_2급-d5e7b9?style=for-the-badge&logoColor=white)
