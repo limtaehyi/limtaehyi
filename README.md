@@ -26,7 +26,7 @@
 ![Static Badge](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Static Badge](https://img.shields.io/badge/kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/kali-2d3063?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ZAP-00549E?style=for-the-badge&logo=ZAP&logoColor=white)
 
 
