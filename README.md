@@ -10,7 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/jquery-d5e7b9?style=for-the-badge&logo=jquery&logoColor=white)
 <br><br>
 
-## 🔥 framework 🔥
+## 🛠️ framework 🛠️
 ![Static Badge](https://img.shields.io/badge/flask-blue?style=for-the-badge&logo=flask&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/codeigniter3-e34f26?style=for-the-badge&logo=codeigniter&logoColor=white)
@@ -24,7 +24,7 @@
 ![Static Badge](https://img.shields.io/badge/정보보안기사_필기-eadeee?style=for-the-badge&logoColor=white)
 <br><br>
 
-## 👍 etc 👍
+## 🎸 etc 🎸
 ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -34,5 +34,7 @@
 ![Static Badge](https://img.shields.io/badge/ZAP-00549E?style=for-the-badge&logo=ZAP&logoColor=white)
 
 <br><br><br>
-
+## ![QueenOfEnglandQueenElizabethIiGIF](https://github.com/limtaehyi/limtaehyi/assets/28758809/6b1cef96-e3f3-4551-9f3b-66dfc87a5857)
+![LelouchChessGIF](https://github.com/limtaehyi/limtaehyi/assets/28758809/3bc67475-cfe5-4dfd-bda0-fea3935a2164)
+Playing with White
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9359F7&random=false&width=435&lines=My+favorite+%22CHESS%22+opening;1.Blackmar-Diemer+gambit;2.London+system;3.Queen's+gambit;4.Queen's+Indian+attack)](https://git.io/typing-svg)
