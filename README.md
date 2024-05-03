@@ -17,6 +17,7 @@
 <br><br>
 
 ## 🎓 certification 🎓
+![Static Badge](https://img.shields.io/badge/1종_보통-fef2b1?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/네트워크관리사_2급-d5e7b9?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/인터넷보안전문가_2급-b0d5f1?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/정보처리기사_필기-f8cdcd?style=for-the-badge&logoColor=white)
