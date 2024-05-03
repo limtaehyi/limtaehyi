@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&fontColor=black&height=300&section=header&stroke=9c5aec&text=aaaaaaaaaey&fontSize=90)
 
-## 🆎language
+## 🆎 language 🆎
 ![Static Badge](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/python-5a9aec?style=for-the-badge&logo=python&logoColor=white)
@@ -9,18 +9,18 @@
 ![Static Badge](https://img.shields.io/badge/css-f8cdcd?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/jquery-d5e7b9?style=for-the-badge&logo=jquery&logoColor=white)
 
-## 🔥framework
+## 🔥 framework 🔥
 ![Static Badge](https://img.shields.io/badge/flask-blue?style=for-the-badge&logo=flask&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/codeigniter3-e34f26?style=for-the-badge&logo=codeigniter&logoColor=white)
 
-## 🎓certification
+## 🎓 certification 🎓
 ![Static Badge](https://img.shields.io/badge/네트워크관리사_2급-d5e7b9?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/인터넷보안전문가_2급-b0d5f1?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/정보처리기사_필기-f8cdcd?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/정보보안기사_필기-eadeee?style=for-the-badge&logoColor=white)
 
-## 👍etc
+## 👍 etc 👍
 ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
