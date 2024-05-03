@@ -8,17 +8,20 @@
 ![Static Badge](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/css-f8cdcd?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/jquery-d5e7b9?style=for-the-badge&logo=jquery&logoColor=white)
+<br><br>
 
 ## 🔥 framework 🔥
 ![Static Badge](https://img.shields.io/badge/flask-blue?style=for-the-badge&logo=flask&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/codeigniter3-e34f26?style=for-the-badge&logo=codeigniter&logoColor=white)
+<br><br>
 
 ## 🎓 certification 🎓
 ![Static Badge](https://img.shields.io/badge/네트워크관리사_2급-d5e7b9?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/인터넷보안전문가_2급-b0d5f1?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/정보처리기사_필기-f8cdcd?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/정보보안기사_필기-eadeee?style=for-the-badge&logoColor=white)
+<br><br>
 
 ## 👍 etc 👍
 ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
