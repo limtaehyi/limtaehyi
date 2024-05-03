@@ -37,4 +37,6 @@
 ## ⚪ Playing chess with White ⚪
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9359F7&random=false&width=435&lines=My+favorite+%22CHESS%22+opening;1.Blackmar-Diemer+gambit;2.London+system;3.Queen's+gambit;4.Queen's+Indian+attack)](https://git.io/typing-svg)
 
+![KledBreeGIF](https://github.com/limtaehyi/limtaehyi/assets/28758809/bf92aee6-1d4a-442e-8a94-806c4b61dbf0)
+![AnimeGirlTiredAnimeTiredGIF](https://github.com/limtaehyi/limtaehyi/assets/28758809/93da735d-200f-497f-99e9-56b4206b4f6e)
 
