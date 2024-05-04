@@ -43,6 +43,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5c9747&random=false&width=435&lines=1.King's_Knight_Opening:Normal_Var;2.Sicillian_Defense:Old_Sicilian;3.Modern_Defense;4.Italian_Game:Two_Knights_Defense)](https://git.io/typing-svg)
 
 <br><br><br>
+##  Youtube Music Playlist
+https://www.youtube.com/playlist?list=PLxoJ1btgI9Nq-b8ssj_TIs8XtbXig6Qc7
+
+<br><br><br>
 ## 🎮 League of Legends (Mid kled one champ)
 #### 미쳐버린 클레드#1234 (Top rating S13_1 M1 124p)
 #### limion#1234 (D1)
