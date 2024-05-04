@@ -44,6 +44,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5c9747&random=false&width=435&lines=1.King's_Knight_Opening:Normal_Variation;2.Sicillian_Defense:Old_Sicilian;3.Modern_Defense;4.Italian_Game:Two_Knights_Defense)](https://git.io/typing-svg)
 
 <br><br><br>
+## 🎮 League of Legends 
+top rate : S13_1 M1 124p; 미쳐버린 클레드#1234
+now : D1 limion#1234
 <img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/bf92aee6-1d4a-442e-8a94-806c4b61dbf0" width="30%" height="30%"/>
 
 
