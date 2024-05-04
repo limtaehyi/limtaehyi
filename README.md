@@ -34,6 +34,7 @@
 ![Static Badge](https://img.shields.io/badge/ZAP-00549E?style=for-the-badge&logo=ZAP&logoColor=white)
 
 <br><br><br>
+# chess.com (rapid 1550)
 ## ⚪ Playing chess with White ⚪
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9359F7&random=false&width=435&lines=1.Blackmar-Diemer+Gambit;2.London+System;3.Queen's+Gambit;4.Queen's+Indian+Attack)](https://git.io/typing-svg)
 
@@ -43,3 +44,5 @@
 
 <br><br><br>
 <img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/bf92aee6-1d4a-442e-8a94-806c4b61dbf0" width="30%" height="30%"/>
+
+
