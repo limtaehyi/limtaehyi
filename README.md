@@ -44,7 +44,8 @@
 
 <br><br><br>
 ## 🎮 League of Legends (Mid kled one champ)
-미쳐버린 클레드#1234(Top rating S13_1 M1 124p), limion#1234(D1)<br>
+#### 미쳐버린 클레드#1234(Top rating S13_1 M1 124p)
+#### limion#1234(D1)
 <br>
 <img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/bf92aee6-1d4a-442e-8a94-806c4b61dbf0" width="15%" height="15%"/>
 
