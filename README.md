@@ -18,11 +18,11 @@
 <br><br>
 
 ## 🎓 Certification 🎓
-![Static Badge](https://img.shields.io/badge/1종_보통-fef2b1?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/네트워크관리사_2급-d5e7b9?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/인터넷보안전문가_2급-b0d5f1?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/정보처리기사_필기-f8cdcd?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/정보보안기사_필기-eadeee?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/1종_보통-fef2b1?style=for-the-badge&logoColor=white)
 <br><br>
 
 ## 🎸 ETC 🎸
@@ -43,9 +43,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5c9747&random=false&width=435&lines=1.King's_Knight_Opening:Normal_Var;2.Sicillian_Defense:Old_Sicilian;3.Modern_Defense;4.Italian_Game:Two_Knights_Defense)](https://git.io/typing-svg)
 
 <br><br><br>
-## 🎮 League of Legends (Mid kled one champ)
-#### 미쳐버린 클레드#1234(Top rating S13_1 M1 124p)
-#### limion#1234(D1)
+# 🎮 League of Legends (Mid kled one champ)
+#### 미쳐버린 클레드#1234 (Top rating S13_1 M1 124p)
+#### limion#1234 (D1)
 <br>
 <img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/bf92aee6-1d4a-442e-8a94-806c4b61dbf0" width="15%" height="15%"/>
 
