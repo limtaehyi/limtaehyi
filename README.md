@@ -41,6 +41,9 @@
 <br>
 ### ⚫ Playing Chess with Black ⚫
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5c9747&random=false&width=435&lines=1.King's_Knight_Opening:Normal_Var;2.Sicillian_Defense:Old_Sicilian;3.Modern_Defense;4.Italian_Game:Two_Knights_Defense)](https://git.io/typing-svg)
+<br>
+![CatChessGIF](https://github.com/limtaehyi/limtaehyi/assets/28758809/9242241b-482e-4405-b054-e8000287cc38)
+
 
 <br><br><br>
 ## 🎧 Youtube Music Playlist
