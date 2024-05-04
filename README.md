@@ -55,8 +55,8 @@ https://www.youtube.com/playlist?list=PLxoJ1btgI9NqxWi3nREPOIsQ_PfLpwS5Y
 
 <br><br><br>
 ## 🎮 League of Legends (Mid kled one champ)
-#### 미쳐버린 클레드#1234 (Top rating S13_1 M1 124p)
-#### limion#1234 (D1)
+#### [미쳐버린 클레드#1234 (Top rating S13_1 🟣M1 124p)](https://www.deeplol.gg/summoner/KR/%EB%AF%B8%EC%B3%90%EB%B2%84%EB%A6%B0%20%ED%81%B4%EB%A0%88%EB%93%9C-1234)
+#### [limion#1234 (🔵D1)](https://www.deeplol.gg/summoner/KR/limion-1234)
 <br>
 <img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/bf92aee6-1d4a-442e-8a94-806c4b61dbf0" width="30%" height="30%"/>
 
