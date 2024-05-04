@@ -47,11 +47,10 @@
 
 <br><br><br>
 ## 🎧 Youtube Music Playlist
- - my favorite music playlist
+ - my favorite music playlist<br>
 https://www.youtube.com/playlist?list=PLxoJ1btgI9Nq-b8ssj_TIs8XtbXig6Qc7
- - my favorite music playlist playlist
+ - my favorite music playlist playlist<br>
 https://www.youtube.com/playlist?list=PLxoJ1btgI9NqxWi3nREPOIsQ_PfLpwS5Y
-
 
 
 <br><br><br>
