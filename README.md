@@ -87,4 +87,10 @@ https://www.youtube.com/playlist?list=PLxoJ1btgI9NqxWi3nREPOIsQ_PfLpwS5Y
 <br>
 <img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/bf92aee6-1d4a-442e-8a94-806c4b61dbf0" width="30%" height="30%"/>
 
+<br><br><br>
+## 💕 Big fan of Isegye Idol
+![IsegyeIdolGIF](https://github.com/limtaehyi/limtaehyi/assets/28758809/4e01d540-c66f-49f6-82f8-c20c19f01638)
+<br>
+![징버거이세돌GIF](https://github.com/limtaehyi/limtaehyi/assets/28758809/4a3e4c3c-a68d-4b2b-96df-9fc6a689d365)
+
 
