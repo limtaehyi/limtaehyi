@@ -52,7 +52,7 @@
 ![Static Badge](https://img.shields.io/badge/kali-2d3063?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ZAP-00549E?style=for-the-badge&logo=ZAP&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Redis-e34f26?style=for-the-badge&logo=Redis&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=Apache_Tomcat&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
 
 <br><br><br>
 # ♟️ Chess.com
