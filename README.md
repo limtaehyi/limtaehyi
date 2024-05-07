@@ -30,6 +30,7 @@
 ## 🎓 Certification 🎓
  - 네트워크관리사 2급 : 2017-11-07
  - 인터넷보안전문가 2급 : 2018-09-04
+ - COS Pro Python 2급 : 2019-12-15
  - 정보처리기사 필기 : 2024-03-13
  - 정보처리기사 실기 : 합격자 발표 -> 2024-05-29 or 2024-06-18
  - 정보보안기사 필기 : 24.03.29 (유예기간; 24.03.29~26.03.29)
@@ -38,6 +39,7 @@
 
 ![Static Badge](https://img.shields.io/badge/네트워크관리사_2급-d5e7b9?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/인터넷보안전문가_2급-b0d5f1?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/COS_Pro_Python_2급-b0d5f1?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/정보처리기사_필기-f8cdcd?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/정보보안기사_필기-eadeee?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/1종_보통-fef2b1?style=for-the-badge&logoColor=white)
