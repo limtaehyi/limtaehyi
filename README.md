@@ -2,9 +2,9 @@
 
 
 ## 🆎 Language 🆎
- - C, JAVA, PYTHON : 정보처리기사 취득 할 정도의 기본 문법 이해
- - JAVASCRIPT : 기초적인 ajax 통신 및 element 수정 가능
- - HTML, CSS, JQUERY : 기초예제 구현 가능
+ - C, Java, Python : 정보처리기사 취득 할 정도의 기본 문법 이해
+ - Javascript, Jquery : 기초적인 ajax 통신 및 element 수정 가능
+ - HTML, CSS : 기초예제 구현 가능
 <br><br>
 
 ![Static Badge](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
