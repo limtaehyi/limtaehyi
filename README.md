@@ -51,6 +51,7 @@
 ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/kali-2d3063?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ZAP-00549E?style=for-the-badge&logo=ZAP&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Redis-e34f26?style=for-the-badge&logo=Redis&logoColor=white)
 
 <br><br><br>
 # ♟️ Chess.com
