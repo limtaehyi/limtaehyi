@@ -19,7 +19,7 @@
 ## 🛠️ Framework 🛠️
  - Flask : 점프 투 플라스크 예제 구현 가능 및 Extextcloud 구현
  - Django : 점프 투 장고 예제 구현 가능
- - Codeigniter3(CI3) : 간단한 홈페이지 구현 가능
+ - Codeigniter3(CI3) : 간단한 CRUD 홈페이지 구현 가능
 <br><br>
 
 ![Static Badge](https://img.shields.io/badge/flask-blue?style=for-the-badge&logo=flask&logoColor=white)
