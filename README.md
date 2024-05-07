@@ -55,10 +55,10 @@
 <br><br><br>
 ## ♟️ Chess.com (take_my_tiara; Only rapid 1500)
 ### ⚪ Playing Chess with White ⚪
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5c9747&random=false&width=435&lines=1.Blackmar-Diemer+Gambit;2.London+System;3.Queen's+Gambit;4.Queen's+Indian+Attack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5c9747&random=false&width=435&lines=1.+Blackmar-Diemer+Gambit;2.+London+System;3.+Queen's+Gambit;4.+Queen's+Indian+Attack)](https://git.io/typing-svg)
 <br>
 ### ⚫ Playing Chess with Black ⚫
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5c9747&random=false&width=435&lines=1.King's+Knight+Opening:Normal+Var;2.Sicillian+Defense:Old+Sicilian;3.Modern+Defense;4.Italian+Game:Two+Knights+Defense)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5c9747&random=false&width=435&lines=1.+King's+Knight+Opening:Normal+Var;2.+Sicillian+Defense:Old+Sicilian;3.+Modern+Defense;4.+Italian+Game:Two+Knights+Defense)](https://git.io/typing-svg)
 <br>
 <img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/9242241b-482e-4405-b054-e8000287cc38" width="30%" height="30%"/>
 
