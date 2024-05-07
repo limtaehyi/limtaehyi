@@ -2,7 +2,7 @@
 
 
 ## 🆎 Language 🆎
- - C, Java, Python : 정보처리기사 취득 할 정도의 문법 이해
+ - C, Java, Python : 정보처리기사 취득(예정) 할 정도의 문법 이해
  - Javascript, Jquery : 기초적인 ajax 통신 및 element 수정 가능
  - HTML, CSS : 기초예제 구현 가능
 <br><br>
