@@ -53,7 +53,7 @@
 ![Static Badge](https://img.shields.io/badge/ZAP-00549E?style=for-the-badge&logo=ZAP&logoColor=white)
 
 <br><br><br>
-## ♟️ Chess.com
+# ♟️ Chess.com
  - Nickname : take_my_tiara
  - Only rapid 10/0 (1500)
 <br>
