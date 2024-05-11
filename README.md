@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&fontColor=000&height=300&section=header&stroke=9c5aec&text=읽다,_READ,_読む,_读,_читать,_อ่าน,_lire,_legere,_унших,_basahin,_पढ़ना_me&fontSize=22)
+![header](https://capsule-render.vercel.app/api?type=venom&fontColor=000&height=300&section=header&stroke=9c5aec&text=읽다,_READ,_読む,_读,_читать,_อ่าน,_lire,_legere,_унших_me&fontSize=30)
 
 
 ## 🆎 Language 🆎
