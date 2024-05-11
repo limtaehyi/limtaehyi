@@ -99,4 +99,6 @@ https://www.youtube.com/playlist?list=PLxoJ1btgI9NqxWi3nREPOIsQ_PfLpwS5Y
 ## 💕 Fan of King gnu
 <img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/3c2c113a-2532-42d4-9fa0-cee155f401f5" width="30%" height="30%"/>
 <br>
+![KingGnuZipSatoruIguchiGIF](https://github.com/limtaehyi/limtaehyi/assets/28758809/26137ea9-a6f2-44b8-a46f-7e893f4617a3)
+
 <img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/a3532d64-9677-42ab-9199-e4d82725c188" size="30%"/>
