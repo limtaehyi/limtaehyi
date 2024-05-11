@@ -93,3 +93,10 @@ https://www.youtube.com/playlist?list=PLxoJ1btgI9NqxWi3nREPOIsQ_PfLpwS5Y
 <img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/4e01d540-c66f-49f6-82f8-c20c19f01638" width="30%" height="30%"/>
 <br>
 <img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/4a3e4c3c-a68d-4b2b-96df-9fc6a689d365" size="30%"/>
+
+
+<br><br><br>
+## 💕 Fan of King gnu
+<img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/3c2c113a-2532-42d4-9fa0-cee155f401f5" width="30%" height="30%"/>
+<br>
+<img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/a3532d64-9677-42ab-9199-e4d82725c188" size="30%"/>
