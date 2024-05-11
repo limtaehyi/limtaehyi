@@ -59,8 +59,8 @@
 
 <br><br><br>
 # ♟️ Chess.com
- - Nickname : take_my_tiara
- - Only rapid 10+0 (1500)
+ - Username : take_my_tiara
+ - Only rapid 10+0 (1450~1500)
 <br>
 
 ### ⚪ Playing Chess with White ⚪
