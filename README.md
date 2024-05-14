@@ -45,6 +45,28 @@
 ![Static Badge](https://img.shields.io/badge/1종_보통-fef2b1?style=for-the-badge&logoColor=white)
 <br><br>
 
+##  🔥 Activity 🔥
+
+ - 전주컴퓨터학원
+
+   - 정보보안 6기 (17.09 ~ 18.02)
+   - 정보보안 7기 (18.03 ~ 18.08)
+   - 정보보안 8기 (18.09 ~ 19.02)
+
+ - 동아리
+
+   - APS(Kucis) (19.03 ~ )
+
+ - 행사 참석
+
+   - 삼성 SSTF 2019 (19.08.20)
+
+   - 경찰대학
+
+   - 전남대
+
+     <br><br>
+
 ## 🎸 ETC 🎸
 ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white)
