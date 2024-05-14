@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&fontColor=black&height=300&section=header&stroke=9c5aec&text=aaaaaaaaaey&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&fontColor=000&height=300&section=header&stroke=9c5aec&text=읽다,_READ,_読む,_读,_читать,_อ่าน,_lire,_legere,_унших_me&fontSize=30)
 
 
 ## 🆎 Language 🆎
@@ -81,8 +81,8 @@
 
 <br><br><br>
 # ♟️ Chess.com
- - Nickname : take_my_tiara
- - Only rapid 10+0 (1500)
+ - Username : take_my_tiara
+ - Only rapid 10+0 (1450~1500)
 <br>
 
 ### ⚪ Playing Chess with White ⚪
