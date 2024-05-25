@@ -117,6 +117,6 @@
 <br>
 <img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/99b2f18c-e1f2-47a3-a962-c9c0599abe24" width="30%" height="30%"/>
 <br>
-<img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/f845e8d1-6a50-4072-b8d1-c92ccffff8bc" width="30%" height="30%"/>
+<img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/5993ff6b-23eb-4161-a4b3-6d557c49da5a" width="30%" height="30%"/>
 <br>
 
