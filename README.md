@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&fontColor=000&height=300&section=header&stroke=9c5aec&text=임태희_/_Limion_/_limtaehyi&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&fontColor=000&height=300&section=header&stroke=9c5aec&text=임태희+/+Limion+/+limtaehyi&fontSize=50)
 
 
 ## 🆎 Language 🆎
