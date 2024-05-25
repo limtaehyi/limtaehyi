@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&fontColor=000&height=300&section=header&stroke=9c5aec&text=Limion&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=venom&fontColor=000&height=300&section=header&stroke=9c5aec&text=Limion&fontSize=70)
 
 
 ## 🆎 Language 🆎
