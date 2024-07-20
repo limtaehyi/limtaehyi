@@ -2,7 +2,7 @@
 
 
 ## 🆎 Language 🆎
- - C, Java, Python : 정보처리기사 취득(예정) 할 정도의 문법 이해
+ - C, Java, Python : 정보처리기사 취득 할 정도의 문법 이해
  - Javascript, Jquery : 기초적인 ajax 통신 및 element 수정 가능
  - HTML, CSS : 기초예제 구현 가능
 <br><br>
@@ -33,7 +33,7 @@
  - COS Pro Python 2급 : 2019-12-15
  - 1종 보통 : 2020-03-16
  - 정보처리기사 : 2024-06-18
- - 정보보안기사 필기 : 24.03.29 (유예기간; 24.03.29~26.03.29)
+ - 정보보안기사 필기 : 24.03.29 (실기유예기간; 24.03.29~26.03.29)
 <br><br>
 
 ![Static Badge](https://img.shields.io/badge/네트워크관리사_2급-d5e7b9?style=for-the-badge&logoColor=white)
