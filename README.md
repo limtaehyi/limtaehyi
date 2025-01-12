@@ -117,7 +117,6 @@
 <br><br><br>
 
 ## 💕 Fan of Isegye Idol, King gnu, QWER
-<br>
   "버튜버 왜 보는거야?"
 <br>
   "그래서 호머 심슨이 라이브 쇼하는거 안볼거야?"
