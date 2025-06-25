@@ -84,8 +84,8 @@
 ![Static Badge](https://img.shields.io/badge/Redis-e34f26?style=for-the-badge&logo=Redis&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
 <br><br><br>
+
 # ♟️ Chess.com
  - Username : take_my_tiara
  - Only rapid 10+0 (1450~1500)
@@ -108,7 +108,6 @@ https://www.youtube.com/playlist?list=PLxoJ1btgI9Nq-b8ssj_TIs8XtbXig6Qc7
 <br><br>
 
 ![CatDanceDancingCatGIF](https://github.com/user-attachments/assets/ea771052-6a2c-4e0f-a114-f615ebe8a880)  
-
 <br><br><br>
 
 ## 🎮 League of Legends (Mid kled one champ)
