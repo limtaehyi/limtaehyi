@@ -104,8 +104,8 @@
 <img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/14966e28-8ea5-40bf-8e16-a0471d418b75" width="30%" height="30%"/>  
 <br>
 
-[My favorite music playlist](https://www.youtube.com/playlist?list=PLxoJ1btgI9Nq-b8ssj_TIs8XtbXig6Qc7)  
-[My favorite music playlist playlist](https://www.youtube.com/playlist?list=PLxoJ1btgI9NqxWi3nREPOIsQ_PfLpwS5Y)
+ - My favorite music playlist
+(https://www.youtube.com/playlist?list=PLxoJ1btgI9Nq-b8ssj_TIs8XtbXig6Qc7)
 
 <br><br><br>
 
