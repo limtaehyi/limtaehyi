@@ -97,7 +97,7 @@
 ### ⚫ Playing Chess with Black ⚫
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5c9747&random=false&width=435&lines=1.+King's+Knight+Opening:Normal+Var;2.+Sicillian+Defense:Old+Sicilian;3.+Modern+Defense;4.+Italian+Game:Two+Knights+Defense)](https://git.io/typing-svg)
 <br>
-<img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/9242241b-482e-4405-b054-e8000287cc38" width="30%" height="30%"/>
+<img src="https://github.com/user-attachments/assets/58cf6fd5-62dd-4c64-9bde-230a80b39c56" width="30%" height="30%"/>
 <br><br><br>
 
 ## 🎧 Youtube Music Playlist
