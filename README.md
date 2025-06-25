@@ -101,11 +101,9 @@
 <br><br><br>
 
 ## 🎧 Youtube Music Playlist
- - My favorite music playlist
-![FlaPeKendrickFlappyGIF](https://github.com/user-attachments/assets/79789e3d-59dd-462e-8274-868ab2fde60f)
-https://www.youtube.com/playlist?list=PLxoJ1btgI9Nq-b8ssj_TIs8XtbXig6Qc7
+![CatDanceDancingCatGIF](https://github.com/user-attachments/assets/ea771052-6a2c-4e0f-a114-f615ebe8a880)  
 
-<img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/14966e28-8ea5-40bf-8e16-a0471d418b75" width="30%" height="30%"/>  
+https://www.youtube.com/playlist?list=PLxoJ1btgI9Nq-b8ssj_TIs8XtbXig6Qc7
 
 <br><br><br>
 
