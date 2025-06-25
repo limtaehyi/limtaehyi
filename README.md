@@ -101,9 +101,9 @@
 <br><br><br>
 
 ## 🎧 Youtube Music Playlist
+ - Lofi -> Indi -> POP -> Electronic -> HipHop -> Phonk
+https://www.youtube.com/playlist?list=PLxoJ1btgI9Nq-b8ssj_TIs8XtbXig6Qc7  
 ![CatDanceDancingCatGIF](https://github.com/user-attachments/assets/ea771052-6a2c-4e0f-a114-f615ebe8a880)  
-
-https://www.youtube.com/playlist?list=PLxoJ1btgI9Nq-b8ssj_TIs8XtbXig6Qc7
 
 <br><br><br>
 
