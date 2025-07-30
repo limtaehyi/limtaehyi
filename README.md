@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=venom&fontColor=000&height=300&section=header&stroke=9c5aec&text=읽다,_READ,_読む,_读,_читать,_อ่าน,_lire,_legere,_унших_me&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=venom&fontColor=000&height=300&section=header&stroke=9c5aec&text=태희_limion_limtaehyi&fontSize=50)
 
 
 ## 🆎 Language 🆎
- - C, Java, Python : 정보처리기사 취득(예정) 할 정도의 문법 이해
+ - C, Java, Python : 정보처리기사 취득 할 정도의 문법 이해
  - Javascript, Jquery : 기초적인 ajax 통신 및 element 수정 가능
  - HTML, CSS : 기초예제 구현 가능
-<br><br>
+<br>
 
 ![Static Badge](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -14,36 +14,35 @@
 ![Static Badge](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/css-f8cdcd?style=for-the-badge&logo=css3&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/jquery-d5e7b9?style=for-the-badge&logo=jquery&logoColor=black)
-<br><br>
+<br><br><br>
 
 ## 🛠️ Framework 🛠️
  - Flask : 점프 투 플라스크 예제 구현 가능 및 Extextcloud 구현
  - Django : 점프 투 장고 예제 구현 가능
  - Codeigniter3 : 간단한 CRUD 홈페이지 구현 가능
-<br><br>
+<br>
 
 ![Static Badge](https://img.shields.io/badge/flask-blue?style=for-the-badge&logo=flask&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/codeigniter3-e34f26?style=for-the-badge&logo=codeigniter&logoColor=white)
-<br><br>
+<br><br><br>
 
 ## 🎓 Certification 🎓
  - 네트워크관리사 2급 : 2017-11-07
  - 인터넷보안전문가 2급 : 2018-09-04
  - COS Pro Python 2급 : 2019-12-15
  - 1종 보통 : 2020-03-16
- - 정보처리기사 필기 : 2024-03-13
- - 정보처리기사 실기 : 합격자 발표 -> 2024-05-29 or 2024-06-18
- - 정보보안기사 필기 : 24.03.29 (유예기간; 24.03.29~26.03.29)
-<br><br>
+ - 정보처리기사 : 2024-06-18
+ - 정보보안기사 필기 : 24.03.29 (실기유예기간; 24.03.29~26.03.29)
+<br>
 
 ![Static Badge](https://img.shields.io/badge/네트워크관리사_2급-d5e7b9?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/인터넷보안전문가_2급-b0d5f1?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/COS_Pro_Python_2급-d5e7b9?style=for-the-badge&logoColor=white)
-![Static Badge](https://img.shields.io/badge/정보처리기사_필기-f8cdcd?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/정보처리기사-f8cdcd?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/정보보안기사_필기-eadeee?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/1종_보통-fef2b1?style=for-the-badge&logoColor=white)
-<br><br>
+<br><br><br>
 
 ## 🔥 Activity 🔥
 
@@ -56,17 +55,23 @@
    - 19년 하계 국가근로 (19.07 160시간)
   
  - 산대특
-   - 23년 동계 산대특 (24.01 ~ 24.05)
+   - 23년 동계 산대특 (24.01 ~ 24.05 480시간)
 
  - 동아리
-   - APS(Kucis) (19.03 ~ )
+   - APS(Kucis) (19.03 ~ 20.12, 23.03 ~ )
 
+- 정보보안병
+   - 21-1기, 8군단 정보보호병 병장만기 전역 (21.01 ~ 22.07) 
+  
  - 행사 참석
    - 삼성 SSTF 2019 (19.08.20)
-   - 경찰대학
-   - 전남대
-   - 에너지ICT융합 보안 해킹 대회 및 호남 사이버 보안 컨퍼런스(20.10.23)
-     <br><br>
+   - 경찰대학 보안 컨퍼런스 (???)
+   - 전남대 보안 컨퍼런스 (???)
+   - 에너지ICT융합 보안 해킹 대회 및 호남 사이버 보안 컨퍼런스 (20.10.23)
+   - 전북 국민연금공단 해킹방어대회 대비 역량 강화 교육 (23.06.07 ~ 23.06.08)
+   - 전북대 화이트 해커 양성 위한 훈련 캠프 (23.06.26 ~ 23.06.28)
+   - KISA 전북지역 대학생 특별 과정 미니 챌린지 리버싱 (24.07.19)
+     <br><br><br>
 
 ## 🔗 Links 🔗
 
@@ -89,8 +94,8 @@
 ![Static Badge](https://img.shields.io/badge/Redis-e34f26?style=for-the-badge&logo=Redis&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
 <br><br><br>
+
 # ♟️ Chess.com
  - Username : take_my_tiara
  - Only rapid 10+0 (1450~1500)
@@ -102,32 +107,34 @@
 ### ⚫ Playing Chess with Black ⚫
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5c9747&random=false&width=435&lines=1.+King's+Knight+Opening:Normal+Var;2.+Sicillian+Defense:Old+Sicilian;3.+Modern+Defense;4.+Italian+Game:Two+Knights+Defense)](https://git.io/typing-svg)
 <br>
-<img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/9242241b-482e-4405-b054-e8000287cc38" width="30%" height="30%"/>
-
-
+<img src="https://github.com/user-attachments/assets/58cf6fd5-62dd-4c64-9bde-230a80b39c56" width="30%" height="30%"/>
 <br><br><br>
+
 ## 🎧 Youtube Music Playlist
- - [My favorite music playlist](https://www.youtube.com/playlist?list=PLxoJ1btgI9Nq-b8ssj_TIs8XtbXig6Qc7)
- - [My favorite music playlist playlist](https://www.youtube.com/playlist?list=PLxoJ1btgI9NqxWi3nREPOIsQ_PfLpwS5Y)
+ - My Fav music playlist
+   - Lofi -> Indi -> POP -> Electronic -> HipHop -> Phonk
 
+https://www.youtube.com/playlist?list=PLxoJ1btgI9Nq-b8ssj_TIs8XtbXig6Qc7
+<br><br>
 
+![CatDanceDancingCatGIF](https://github.com/user-attachments/assets/ea771052-6a2c-4e0f-a114-f615ebe8a880)  
 <br><br><br>
+
 ## 🎮 League of Legends (Mid kled one champ)
 #### [미쳐버린 클레드#1234](https://www.deeplol.gg/summoner/KR/%EB%AF%B8%EC%B3%90%EB%B2%84%EB%A6%B0%20%ED%81%B4%EB%A0%88%EB%93%9C-1234)(Top rating S13_1 🟣M1 124p)
 #### [limion#1234](https://www.deeplol.gg/summoner/KR/limion-1234)(🔵D1)
 <br>
 <img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/bf92aee6-1d4a-442e-8a94-806c4b61dbf0" width="30%" height="30%"/>
-
-
 <br><br><br>
-## 💕 Fan of Isegye Idol
+
+## 💕 Fan of Isegye Idol, King gnu, QWER
+  "버튜버 왜 보는거야?"
+<br>
+  "그래서 호머 심슨이 라이브 쇼하는거 안볼거야?"
+<br>
 <img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/4e01d540-c66f-49f6-82f8-c20c19f01638" width="30%" height="30%"/>
 <br>
-<img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/4a3e4c3c-a68d-4b2b-96df-9fc6a689d365" size="30%"/>
-
-
-<br><br><br>
-## 💕 Fan of King gnu
-<img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/3c2c113a-2532-42d4-9fa0-cee155f401f5" width="30%" height="30%"/>
+<img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/99b2f18c-e1f2-47a3-a962-c9c0599abe24" width="30%" height="30%"/>
 <br>
-<img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/26137ea9-a6f2-44b8-a46f-7e893f4617a3" size="30%"/>
+<img src="https://github.com/limtaehyi/limtaehyi/assets/28758809/5993ff6b-23eb-4161-a4b3-6d557c49da5a" width="30%" height="30%"/>
+<br>
