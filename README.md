@@ -45,7 +45,7 @@
 ![Static Badge](https://img.shields.io/badge/1종_보통-fef2b1?style=for-the-badge&logoColor=white)
 <br><br>
 
-##  🔥 Activity 🔥
+## 🔥 Activity 🔥
 
  - 전주컴퓨터학원
    - 정보보안 6기 (17.09 ~ 18.02)
@@ -67,6 +67,16 @@
    - 전남대
    - 에너지ICT융합 보안 해킹 대회 및 호남 사이버 보안 컨퍼런스(20.10.23)
      <br><br>
+
+## 🔗 Links 🔗
+
+ - taehyi@proton.me
+ - https://dreamhack.io/users/26223/
+ - https://www.chess.com/member/take_my_tiara
+ - https://coff.ee/taehyi
+ - https://limion.tistory.com/
+
+<br><br>
 
 ## 🎸 ETC 🎸
 ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
