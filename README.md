@@ -79,7 +79,7 @@
  - https://dreamhack.io/users/26223/
  - https://www.chess.com/member/take_my_tiara
  - https://coff.ee/taehyi
- - https://limion.tistory.com/
+ - https://limion.kr/
 
 <br><br>
 
