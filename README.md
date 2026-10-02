@@ -124,6 +124,7 @@ https://www.youtube.com/playlist?list=PLxoJ1btgI9Nq-b8ssj_TIs8XtbXig6Qc7
 <br><br><br>
 
 ## 🎮 League of Legends (Mid kled one champ)
+
 #### [limion#1234]([https://www.deeplol.gg/summoner/kr/limion-1234])
 #### [미쳐버린 클레드#1234](https://www.deeplol.gg/summoner/KR/%EB%AF%B8%EC%B3%90%EB%B2%84%EB%A6%B0%20%ED%81%B4%EB%A0%88%EB%93%9C-1234)
 <br>
